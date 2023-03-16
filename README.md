@@ -1,9 +1,9 @@
 ## Forth Challenge FGA Golang!
 
-# make a CLI service
+ make a CLI service
 run command go run biodata.go 1 and show first student data
 
-# student data :
+ student data :
 - Name
 - Address
 - Job
